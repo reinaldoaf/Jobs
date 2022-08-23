@@ -34,4 +34,14 @@
   * Implement WiFi Protocol to acess socket/web to receive configurations
 
 *Sorry for the low quality for images, it is because project need be preserved.
+PCB_3D.JPG
+PCB_BOT.JPG
+PCB_TOP.JPG
+Prototype_Cost.JPG
+SCH_PERIPHERAL.JPG
+SCH_POWER.JPG
+IMG_001.JPG
+IMG_002.JPG
+IMG_003.JPG
+IMG_004.JPG
 
