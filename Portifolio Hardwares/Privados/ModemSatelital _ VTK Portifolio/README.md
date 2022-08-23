@@ -34,6 +34,17 @@ project created to work together VTK Tracker.
   * Control Hardware Errors with self soft/hard reset system if necessary
   * Control memory stored mensages at confirmation of transactions, RS485->Satelite and Satelite->RS485.
   * Send Satelital Control Message to reguard data link and costs of operation.
+  #### SOFTWARES
+  * PROTEUS ECAD
+  * VSCODE+PLATFORMIO
+  * ARDUINO CORE+C++ ARM COMPILER
+  * ANOTHER RELATED SOFTWARES
 
 *Sorry for the low quality for images, it is because project need be preserved.
 
+
+![Alt text](SCH%20_%20Capture.JPG?raw=true "Title")
+![Alt text](PCB%20_%20BOT%20Side.JPG?raw=true "Title")
+![Alt text](3D%20-%20Board%20bot%20Side.JPG?raw=true "Title")
+![Alt text](IMG_0766.JPEG?raw=true "Title")
+![Alt text](IMG_0765.JPEG?raw=true "Title")
