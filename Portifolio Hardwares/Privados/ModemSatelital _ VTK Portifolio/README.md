@@ -28,7 +28,7 @@ project created to work together VTK Tracker.
   * Dual Side, Low cost PCB.
   * Fit Board to Comercial Enclousure to lower costs.
   * LowCost/High Performance Components selected to improve production time.
-  #### FIMWARE
+  #### FIRMWARE
   * Iridium module protocol implemented with IRQs and TTL send/receive data
   * RS485, internal protocol, provided to operate system of message exchange
   * Control Hardware Errors with self soft/hard reset system if necessary
